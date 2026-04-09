@@ -27,7 +27,8 @@
    Создали ветку `feature/jwt-auth`
    Сделали push в удалённый репозиторий
    Сняли граф коммитов: `git log --oneline --graph --all -15`
-   ![Uploading image.png…]()
+<img width="686" height="85" alt="image" src="https://github.com/user-attachments/assets/0ce1f70d-464e-4074-8286-a62f19b2dc37" />
+
 
    Провели эксперимент со stash (сохранение изменений при смене ветки)
 
